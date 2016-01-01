@@ -1,0 +1,8 @@
+{
+  "name": "REST with springboot",
+  "description": "Spring Boot application deployed to heroku",
+  "website": "http://briankelly.co",
+  "repository": "https://github.com/brianthomkelly/rest-springboot",
+  "image": "heroku/java",
+  "addons": [ "heroku-postgresql" ]
+}
